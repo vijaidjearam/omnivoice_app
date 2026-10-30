@@ -31,7 +31,7 @@ omnivoice_app/
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/vijaikodi/omnivoice_app.git
+git clone https://github.com/vijaidjearam/omnivoice_app.git
 cd omnivoice_app
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -43,7 +43,7 @@ If PowerShell blocks the activate script, run this once: `Set-ExecutionPolicy -S
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/vijaikodi/omnivoice_app.git
+git clone https://github.com/vijaidjearam/omnivoice_app.git
 cd omnivoice_app
 python3.11 -m venv .venv
 source .venv/bin/activate
